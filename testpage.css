@@ -30,8 +30,7 @@ main {
   cursor: pointer;
 }
 
-button:active,
-h1:active {
+.test:active {
   background-color: lavender;
   color: black;
   transition: background-color 0.5s;
